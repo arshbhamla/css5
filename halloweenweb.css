@@ -1,0 +1,33 @@
+body
+{
+    background-color:black;
+}
+
+h1
+{
+    color:#8B4000;
+    font-weight: normal;
+    text-decoration: underline;
+    background-color:green;
+    text-align:center;
+}
+
+h2
+{
+    color:#FFC0CB;
+    text-decoration: underline;
+}
+
+
+p
+{
+    color:#7851A9;
+    font-style: italic;
+}
+
+
+ul
+{
+    color:orange;
+    font-style: italic;
+}
